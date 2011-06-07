@@ -28,8 +28,7 @@ PRODUCT_PROPERTY_OVERRIDES := \
 # Put en_US first in the list, to make it default.
 PRODUCT_LOCALES := en_US
 
-# Pick up some sounds - stick with the short list to save space
-# on smaller devices.
+# Get some sounds
 $(call inherit-product-if-exists, frameworks/base/data/sounds/OriginalAudio.mk)
 
 # Get the list of languages.
