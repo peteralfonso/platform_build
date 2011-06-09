@@ -23,7 +23,10 @@ PRODUCT_PACKAGES := \
 
 # Additional settings used in all AOSP builds
 PRODUCT_PROPERTY_OVERRIDES := \
-    keyguard.no_require_sim=true
+    keyguard.no_require_sim=true \
+    ro.com.android.dateformat=MM-dd-yyyy \
+    ro.com.android.dataroaming=false \
+    ro.config.ringtone=CaribbeanIce.ogg
 
 # Put en_US first in the list, to make it default.
 PRODUCT_LOCALES := en_US
