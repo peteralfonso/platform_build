@@ -32,10 +32,7 @@ PRODUCT_PACKAGES := \
     LatinIME \
     Launcher2 \
     Mms \
-    Music \
-    Provision \
     Protips \
-    QuickSearchBox \
     Settings \
     Sync \
     SystemUI \
