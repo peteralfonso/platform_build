@@ -34,6 +34,9 @@ PRODUCT_LOCALES := en_US
 # Get some sounds
 $(call inherit-product-if-exists, frameworks/base/data/sounds/OriginalAudio.mk)
 
+# Get the default TTS language pack
+$(call inherit-product-if-exists, external/svox/pico/lang/PicoLangDefaultInSystem.mk)
+
 # Get the list of languages.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_small.mk)
 
