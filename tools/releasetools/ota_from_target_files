@@ -378,7 +378,7 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("")
   script.Print("************************************************")
   script.Print("*                                              *")
-  script.Print("*             Gingerbread  2.3.5               *")
+  script.Print("*             Gingerbread  2.3.7               *")
   script.Print("*            www.peteralfonso.com              *")
   script.Print("*         Android Open Source Project          *")
   script.Print("*                                              *")
