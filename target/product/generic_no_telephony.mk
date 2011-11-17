@@ -33,11 +33,8 @@ PRODUCT_PACKAGES := \
     Gallery2 \
     LatinIME \
     Launcher2 \
-    Music \
     MusicFX \
-    Provision \
     Phone \
-    QuickSearchBox \
     Settings \
     Sync \
     SystemUI \
