@@ -25,9 +25,9 @@ PRODUCT_PACKAGES := \
 	Exchange \
 	Gallery \
 	Mms \
+	Music \
 	Phone \
 	Protips \
-	SoftKeyboard \
 	SystemUI \
 	Launcher2 \
 	AccountAndSyncSettings \
@@ -36,7 +36,6 @@ PRODUCT_PACKAGES := \
 	Fallback \
 	GPSEnable \
 	Settings \
-	SdkSetup \
 	CustomLocale \
 	gpstest \
 	sqlite3 \
@@ -45,7 +44,6 @@ PRODUCT_PACKAGES := \
 	LiveWallpapersPicker \
 	ApiDemos \
 	GestureBuilder \
-	CubeLiveWallpapers \
 	WidgetPreview \
 	monkeyrunner \
 	guavalib \
