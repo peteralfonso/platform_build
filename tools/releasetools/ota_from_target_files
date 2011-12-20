@@ -394,7 +394,7 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("")
   script.Print("************************************************")
   script.Print("*                                              *")
-  script.Print("*          Ice Cream Sandwich  4.0.1           *")
+  script.Print("*              Ice Cream Sandwich              *")
   script.Print("*         Android Open Source Project          *")
   script.Print("*            www.peteralfonso.com              *")
   script.Print("*                                              *")
