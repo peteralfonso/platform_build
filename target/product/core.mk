@@ -25,7 +25,6 @@ PRODUCT_PROPERTY_OVERRIDES := \
 PRODUCT_PACKAGES := \
     ApplicationsProvider \
     BackupRestoreConfirmation \
-    Browser \
     Contacts \
     ContactsProvider \
     DefaultContainerService \
