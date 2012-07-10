@@ -23,23 +23,15 @@ PRODUCT_PACKAGES := \
 	Email \
 	Exchange2 \
 	Gallery \
-	Music \
 	Mms \
-	OpenWnn \
-	libWnnEngDic \
-	libWnnJpnDic \
-	libwnndict \
 	Phone \
-	PinyinIME \
 	Protips \
-	SoftKeyboard \
 	SystemUI \
 	Launcher2 \
 	Development \
 	DrmProvider \
 	Fallback \
 	Settings \
-	SdkSetup \
 	CustomLocale \
 	sqlite3 \
 	InputDevices \
@@ -48,8 +40,6 @@ PRODUCT_PACKAGES := \
 	LiveWallpapersPicker \
 	ApiDemos \
 	GestureBuilder \
-	CubeLiveWallpapers \
-	QuickSearchBox \
 	WidgetPreview \
 	monkeyrunner \
 	guavalib \
